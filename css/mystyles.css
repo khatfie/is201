@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.site-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+}
+.mb-3{
+    font-family: 'Times New Roman', Times, serif;
+    color: navy !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px black
+}
